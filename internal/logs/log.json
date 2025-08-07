@@ -1,0 +1,28 @@
+{"level":"debug","ts":"2025-08-07T07:00:54.452+0300","caller":"logger/logger.go:20","msg":"Logger initialized","output_paths":["stdout","./internal/logs/log.json"]}
+{"level":"info","ts":"2025-08-07T07:00:54.452+0300","caller":"server/main.go:14","msg":"Приложение запущено"}
+{"level":"error","ts":"2025-08-07T07:00:54.452+0300","caller":"bd/bd.go:24","msg":"error in configs.env (dsn)","error":"cannot parse `postgres2002postgreslocalhost5432`: failed to parse as keyword/value (invalid keyword/value)","stacktrace":"github.com/sumayu/pet/internal/bd.BD\n\t/home/pc/Загрузки/mu/pet/internal/bd/bd.go:24\nmain.main\n\t/home/pc/Загрузки/mu/pet/cmd/server/main.go:15\nruntime.main\n\t/home/pc/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.12.linux-amd64/src/runtime/proc.go:272"}
+{"level":"debug","ts":"2025-08-07T07:03:12.347+0300","caller":"logger/logger.go:20","msg":"Logger initialized","output_paths":["stdout","./internal/logs/log.json"]}
+{"level":"info","ts":"2025-08-07T07:03:12.348+0300","caller":"server/main.go:14","msg":"Приложение запущено"}
+{"level":"error","ts":"2025-08-07T07:03:12.348+0300","caller":"bd/bd.go:23","msg":"error in configs.env (dsn)","stacktrace":"github.com/sumayu/pet/internal/bd.BD\n\t/home/pc/Загрузки/mu/pet/internal/bd/bd.go:23\nmain.main\n\t/home/pc/Загрузки/mu/pet/cmd/server/main.go:15\nruntime.main\n\t/home/pc/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.12.linux-amd64/src/runtime/proc.go:272"}
+{"level":"info","ts":"2025-08-07T07:03:12.368+0300","caller":"bd/bd.go:29","msg":"Successfully connected to PostgreSQL"}
+{"level":"debug","ts":"2025-08-07T07:04:55.735+0300","caller":"logger/logger.go:20","msg":"Logger initialized","output_paths":["stdout","./internal/logs/log.json"]}
+{"level":"info","ts":"2025-08-07T07:04:55.735+0300","caller":"server/main.go:14","msg":"Приложение запущено"}
+{"level":"error","ts":"2025-08-07T07:04:55.735+0300","caller":"bd/bd.go:24","msg":"error in configs.en\tv (dsn)","error":"cannot parse `postgres2002postgreslocalhost5432`: failed to parse as keyword/value (invalid keyword/value)","stacktrace":"github.com/sumayu/pet/internal/bd.BD\n\t/home/pc/Загрузки/mu/pet/internal/bd/bd.go:24\nmain.main\n\t/home/pc/Загрузки/mu/pet/cmd/server/main.go:15\nruntime.main\n\t/home/pc/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.12.linux-amd64/src/runtime/proc.go:272"}
+{"level":"debug","ts":"2025-08-07T07:06:39.511+0300","caller":"logger/logger.go:20","msg":"Logger initialized","output_paths":["stdout","./internal/logs/log.json"]}
+{"level":"info","ts":"2025-08-07T07:06:39.511+0300","caller":"server/main.go:14","msg":"Приложение запущено"}
+{"level":"error","ts":"2025-08-07T07:06:39.512+0300","caller":"bd/bd.go:24","msg":"error in configs.env (dsn)","error":"cannot parse `postgres2002postgreslocalhost5432`: failed to parse as keyword/value (invalid keyword/value)","stacktrace":"github.com/sumayu/pet/internal/bd.BD\n\t/home/pc/Загрузки/mu/pet/internal/bd/bd.go:24\nmain.main\n\t/home/pc/Загрузки/mu/pet/cmd/server/main.go:15\nruntime.main\n\t/home/pc/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.12.linux-amd64/src/runtime/proc.go:272"}
+{"level":"debug","ts":"2025-08-07T07:07:17.777+0300","caller":"logger/logger.go:20","msg":"Logger initialized","output_paths":["stdout","./internal/logs/log.json"]}
+{"level":"info","ts":"2025-08-07T07:07:17.777+0300","caller":"server/main.go:14","msg":"Приложение запущено"}
+{"level":"error","ts":"2025-08-07T07:07:17.808+0300","caller":"bd/bd.go:23","msg":"error in configs.env (dsn)","stacktrace":"github.com/sumayu/pet/internal/bd.BD\n\t/home/pc/Загрузки/mu/pet/internal/bd/bd.go:23\nmain.main\n\t/home/pc/Загрузки/mu/pet/cmd/server/main.go:15\nruntime.main\n\t/home/pc/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.12.linux-amd64/src/runtime/proc.go:272"}
+{"level":"info","ts":"2025-08-07T07:07:17.808+0300","caller":"bd/bd.go:29","msg":"Successfully connected to PostgreSQL"}
+{"level":"debug","ts":"2025-08-07T07:08:03.720+0300","caller":"logger/logger.go:20","msg":"Logger initialized","output_paths":["stdout","./internal/logs/log.json"]}
+{"level":"info","ts":"2025-08-07T07:08:03.720+0300","caller":"server/main.go:14","msg":"Приложение запущено"}
+{"level":"error","ts":"2025-08-07T07:08:03.720+0300","caller":"bd/bd.go:30","msg":"error in configs.env (dsn)","stacktrace":"github.com/sumayu/pet/internal/bd.BD\n\t/home/pc/Загрузки/mu/pet/internal/bd/bd.go:30\nmain.main\n\t/home/pc/Загрузки/mu/pet/cmd/server/main.go:15\nruntime.main\n\t/home/pc/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.23.12.linux-amd64/src/runtime/proc.go:272"}
+{"level":"info","ts":"2025-08-07T07:08:03.729+0300","caller":"bd/bd.go:36","msg":"Successfully connected to PostgreSQL"}
+{"level":"debug","ts":"2025-08-07T07:08:57.589+0300","caller":"logger/logger.go:20","msg":"Logger initialized","output_paths":["stdout","./internal/logs/log.json"]}
+{"level":"info","ts":"2025-08-07T07:08:57.589+0300","caller":"server/main.go:14","msg":"Приложение запущено"}
+{"level":"debug","ts":"2025-08-07T07:08:57.589+0300","caller":"bd/bd.go:58","msg":"Connecting to PostgreSQL","dsn":"postgres://postgres:****@localhost:5432/postgres"}
+{"level":"info","ts":"2025-08-07T07:08:57.614+0300","caller":"bd/bd.go:88","msg":"Successfully connected to PostgreSQL","host":"localhost","database":"postgres"}
+{"level":"debug","ts":"2025-08-07T07:13:11.747+0300","caller":"logger/logger.go:20","msg":"Logger initialized","output_paths":["stdout","./internal/logs/log.json"]}
+{"level":"info","ts":"2025-08-07T07:13:11.747+0300","caller":"server/main.go:14","msg":"Приложение запущено"}
+{"level":"info","ts":"2025-08-07T07:13:11.756+0300","caller":"bd/bd.go:41","msg":"Successfully connected to PostgreSQL"}
