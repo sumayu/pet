@@ -5,6 +5,7 @@ import (
 	"github.com/sumayu/pet/config"
 	"github.com/sumayu/pet/internal/bd"
 	"github.com/sumayu/pet/internal/logger"
+	"github.com/sumayu/pet/internal/router"
 )
 
 func main()  {
@@ -13,4 +14,5 @@ func main()  {
 	defer logger.Sync()
 logger.Info("Приложение запущено",	)
 bd.BD()
+router.Router().Run()
 	}
